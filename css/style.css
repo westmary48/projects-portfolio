@@ -67,7 +67,7 @@ h6::after {
 	content:" ";
 	border:solid 1px #CCCCCC;
 	display:block;
-	width:745px;
+	width:65px;
 	margin-top: 20px;
 	text-align: center;
 }
@@ -578,6 +578,8 @@ h1.arrow span {
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	background-size:cover;
+	transition: all .2s ease;
+	vertical-align: middle;
 }
 .color-bg {
 	background: #E04343;
