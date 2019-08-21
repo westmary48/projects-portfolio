@@ -67,8 +67,9 @@ h6::after {
 	content:" ";
 	border:solid 1px #CCCCCC;
 	display:block;
-	width:65px;
+	width:745px;
 	margin-top: 20px;
+	text-align: center;
 }
 /* ==========================================================================HTML5 display definitions========================================================================== */
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
