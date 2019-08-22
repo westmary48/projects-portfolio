@@ -463,11 +463,8 @@ table {
 
 .img-hero {
 background: url('../img/header-bg.jpg');
-/* background-size: contain; */
-/* height: auto;
-width: auto; */
-height: 400px;
-width: 400px;
+height: 500px;
+width: 500px;
 border-radius: 50%;
 background-color:#666666;
 position:absolute;
