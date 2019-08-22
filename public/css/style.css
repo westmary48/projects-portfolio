@@ -454,7 +454,8 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background-size: contain;
+	/* background: url('../img/header-bg.jpg'); */
+	/* background-size: contain; */
 	padding:110px 0 100px 0;
 	height:auto;
 	background-color: #FBFBFB;
@@ -462,9 +463,12 @@ table {
 
 .img-hero {
 background: url('../img/header-bg.jpg');
+/* background-size: contain; */
+/* height: auto;
+width: auto; */
 height: 400px;
 width: 400px;
-/* border-radius: 50%; */
+border-radius: 50%;
 background-color:#666666;
 position:absolute;
 left:550px;
