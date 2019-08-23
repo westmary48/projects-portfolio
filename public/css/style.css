@@ -1259,4 +1259,8 @@ ul.slides li {
 .img-fishstore {
 	height:300px;
 	width:300px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
